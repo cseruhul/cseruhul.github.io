@@ -38,8 +38,8 @@ I am a passionate Computer Science instructor with experience in teaching, mento
 - **LinkedIn**: https://www.linkedin.com/in/eruhul/
 - **GitHub**: https://github.com/cseruhul
 
-<h3>Check this out my Resume: <a href="https://cseruhul.github.io/cseruhul/">Resume of Ruhul Amin</a></h3>
-##
+##<h3>Check this out my Resume: <a href="https://cseruhul.github.io/cseruhul/">Resume of Ruhul Amin</a></h3>
+
 
 Thank you for visiting my portfolio! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
