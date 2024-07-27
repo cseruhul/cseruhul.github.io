@@ -34,7 +34,7 @@ I am a passionate Computer Science instructor with experience in teaching, mento
 
 ## Contact
 
-- **Email**: ruhul.computer12@gmail.com
+- **Email**: md.ruhul.amin.40576@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/eruhul/
 - **GitHub**: https://github.com/cseruhul
 
